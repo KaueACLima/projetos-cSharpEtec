@@ -1,0 +1,11 @@
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\bin\Debug\netcoreapp2.1\Lampada.deps.json
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\bin\Debug\netcoreapp2.1\Lampada.runtimeconfig.json
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\bin\Debug\netcoreapp2.1\Lampada.runtimeconfig.dev.json
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\bin\Debug\netcoreapp2.1\Lampada.dll
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\bin\Debug\netcoreapp2.1\Lampada.pdb
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\obj\Debug\netcoreapp2.1\Lampada.csprojAssemblyReference.cache
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\obj\Debug\netcoreapp2.1\Lampada.csproj.CoreCompileInputs.cache
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\obj\Debug\netcoreapp2.1\Lampada.AssemblyInfoInputs.cache
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\obj\Debug\netcoreapp2.1\Lampada.AssemblyInfo.cs
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\obj\Debug\netcoreapp2.1\Lampada.dll
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Lampada\obj\Debug\netcoreapp2.1\Lampada.pdb

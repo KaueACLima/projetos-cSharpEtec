@@ -1,0 +1,11 @@
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\bin\Debug\netcoreapp2.1\Usuario.deps.json
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\bin\Debug\netcoreapp2.1\Usuario.runtimeconfig.json
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\bin\Debug\netcoreapp2.1\Usuario.runtimeconfig.dev.json
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\bin\Debug\netcoreapp2.1\Usuario.dll
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\bin\Debug\netcoreapp2.1\Usuario.pdb
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\obj\Debug\netcoreapp2.1\Usuario.csprojAssemblyReference.cache
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\obj\Debug\netcoreapp2.1\Usuario.csproj.CoreCompileInputs.cache
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\obj\Debug\netcoreapp2.1\Usuario.AssemblyInfoInputs.cache
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\obj\Debug\netcoreapp2.1\Usuario.AssemblyInfo.cs
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\obj\Debug\netcoreapp2.1\Usuario.dll
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 18_02_25\Usuario\obj\Debug\netcoreapp2.1\Usuario.pdb
