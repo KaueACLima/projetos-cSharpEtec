@@ -1,0 +1,11 @@
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.deps.json
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.runtimeconfig.json
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.runtimeconfig.dev.json
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.dll
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.pdb
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.csprojAssemblyReference.cache
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.csproj.CoreCompileInputs.cache
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.AssemblyInfoInputs.cache
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.AssemblyInfo.cs
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.dll
+D:\ETEC - Parque Belém\3º Módulo\SW II\Aula 25_02_25\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.pdb
