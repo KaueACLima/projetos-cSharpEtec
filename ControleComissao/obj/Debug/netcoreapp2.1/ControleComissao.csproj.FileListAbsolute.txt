@@ -1,0 +1,11 @@
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.csprojAssemblyReference.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.csproj.CoreCompileInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.AssemblyInfoInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.AssemblyInfo.cs
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.deps.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.runtimeconfig.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.runtimeconfig.dev.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\bin\Debug\netcoreapp2.1\ControleComissao.pdb
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula18Mar25\ControleComissao\obj\Debug\netcoreapp2.1\ControleComissao.pdb
