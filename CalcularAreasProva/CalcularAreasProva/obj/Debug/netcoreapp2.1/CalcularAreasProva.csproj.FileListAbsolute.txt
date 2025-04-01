@@ -1,0 +1,11 @@
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\obj\Debug\netcoreapp2.1\CalcularAreasProva.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\obj\Debug\netcoreapp2.1\CalcularAreasProva.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\obj\Debug\netcoreapp2.1\CalcularAreasProva.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\obj\Debug\netcoreapp2.1\CalcularAreasProva.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\bin\Debug\netcoreapp2.1\CalcularAreasProva.deps.json
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\bin\Debug\netcoreapp2.1\CalcularAreasProva.runtimeconfig.json
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\bin\Debug\netcoreapp2.1\CalcularAreasProva.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\bin\Debug\netcoreapp2.1\CalcularAreasProva.dll
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\bin\Debug\netcoreapp2.1\CalcularAreasProva.pdb
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\obj\Debug\netcoreapp2.1\CalcularAreasProva.dll
+C:\Users\Aluno\Downloads\aula25Mar25\CalcularAreasProva\CalcularAreasProva\obj\Debug\netcoreapp2.1\CalcularAreasProva.pdb
