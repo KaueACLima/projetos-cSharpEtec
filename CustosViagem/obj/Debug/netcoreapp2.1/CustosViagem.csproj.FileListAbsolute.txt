@@ -1,0 +1,11 @@
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\obj\Debug\netcoreapp2.1\CustosViagem.csprojAssemblyReference.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\obj\Debug\netcoreapp2.1\CustosViagem.csproj.CoreCompileInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\obj\Debug\netcoreapp2.1\CustosViagem.AssemblyInfoInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\obj\Debug\netcoreapp2.1\CustosViagem.AssemblyInfo.cs
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\bin\Debug\netcoreapp2.1\CustosViagem.deps.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\bin\Debug\netcoreapp2.1\CustosViagem.runtimeconfig.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\bin\Debug\netcoreapp2.1\CustosViagem.runtimeconfig.dev.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\bin\Debug\netcoreapp2.1\CustosViagem.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\bin\Debug\netcoreapp2.1\CustosViagem.pdb
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\obj\Debug\netcoreapp2.1\CustosViagem.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula01Abr25\CustosViagem\obj\Debug\netcoreapp2.1\CustosViagem.pdb
